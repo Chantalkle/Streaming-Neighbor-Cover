@@ -1,0 +1,1 @@
+Die Graph Generatoren erstellen Graph Dateien in .txt Format und eine Graph-Info Datei im csv Format. Die Graph Info Datei kann als Eingabe für die entsprechenden Neighbor Cover Algorithmen (und Vergleichs Algorithmen Greedy, bzw Pitt) genutzt werden. Wie der Aufbau der Dateien für die Gewichte eines graphen aussehen muss ist in den weight Ordnern dargestellt
